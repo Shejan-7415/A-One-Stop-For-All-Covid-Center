@@ -1,5 +1,3 @@
-# HCL Better Life Hackathon
-
 ## ONE FOR ALL COVID CENTER
 
 ```
@@ -8,25 +6,6 @@ TEAM NAME
 ```
 The Bug Slayers
 ```
-
-## Mentor:
-
-PRASHANT SAHATIYA (Ass. Prof. IT- Parul University)
-
-prashant.sahatiya270187@paruluniversity.ac.in
-
-## Team Members:
-
-Virani Shejan N. - 190303108120@paruluniversity.ac.in
-
-Abhishek Makadiya - 190303108077@paruluniversity.ac.in
-
-Darshak Dharaiya - 190303108133@paruluniversity.ac.in
-
-Moni Kumari - 190303108074@paruluniversity.ac.in
-
-Rahul Shrivastava - 190303108111@paruluniversity.ac.in
-
 
 ## Aim & Objectives:
 
